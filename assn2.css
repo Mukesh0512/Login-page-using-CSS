@@ -1,0 +1,75 @@
+body{
+    background-color: rgb(243, 42, 42);
+    padding-left: 18%;
+    padding-right: 18%;
+    padding-top: 8%;
+}
+#loginHeading{
+    padding-left: 7%;
+    padding-top: 5%;
+}
+#formId{
+    padding-left: 7%;
+    padding-right: 7%;
+    padding-bottom: 7%;
+    padding-top: 4%;
+}
+#divFront{
+    width: 100%;
+    background-color: white;
+    
+}
+.txt{
+   border: transparent;
+    width: 100%;
+    border-bottom: 1px solid rgb(134, 134, 134);
+    font-size: large;
+    padding-bottom: 1%;
+    padding-top: 2.5%;
+}
+.inputType{
+    width: 50%;
+    padding-top: 1.5%;
+    padding-bottom: 1.5%;
+    border: transparent;
+   
+}
+
+#input2{
+    background-color: rgb(18, 18, 46);
+    color: white;
+    border-bottom-right-radius: 2px; 
+}
+#aDiv{
+    text-align: center;
+    margin-top: 5%;
+    
+}
+#input1{
+    background-color: rgb(180, 176, 176);
+}
+a:link {
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: rgb(0, 0, 0);
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  
+  a:active {
+    color: rgb(25, 0, 255);
+    background-color: transparent;
+    text-decoration: underline;
+  }
+
+
